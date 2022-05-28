@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T13:54:36.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n9NlCBzi-XJehHB4ShPN" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T13:55:16.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FWehugUBwhUC_iYeYLpJ" version="18.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1688" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,12 +172,12 @@
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-110" value="" style="endArrow=open;html=1;rounded=0;dashed=1;entryX=1.03;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;exitX=-0.141;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="688.64" y="442.99800000000005" as="sourcePoint" />
-            <mxPoint x="525.35" y="443.88" as="targetPoint" />
+            <mxPoint x="688.64" y="443.99800000000005" as="sourcePoint" />
+            <mxPoint x="525.35" y="444.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-111" value="회원 정보 결과" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="564.64" y="433" width="90" height="20" as="geometry" />
+          <mxGeometry x="564" y="445.24" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-112" value="회원 정보" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="294" width="70" height="20" as="geometry" />
