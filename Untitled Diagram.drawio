@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T13:53:32.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zkDQ1agO_GJobn36DDk_" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T13:54:36.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n9NlCBzi-XJehHB4ShPN" version="18.1.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1688" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="r8XIUrFHfBqZS6FGPilP-10">
           <mxGeometry x="50" y="63" width="10" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="r8XIUrFHfBqZS6FGPilP-115" value="회원 정보" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="r8XIUrFHfBqZS6FGPilP-10">
-          <mxGeometry x="-72" y="399.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.143;exitY=0.166;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.177;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="r8XIUrFHfBqZS6FGPilP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-98" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="694" y="430.24" width="16" height="24" as="geometry" />
+          <mxGeometry x="694" y="423.24" width="16" height="24" as="geometry" />
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.071;exitY=0.655;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryX=1.023;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r8XIUrFHfBqZS6FGPilP-93" target="r8XIUrFHfBqZS6FGPilP-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,7 +163,7 @@
             <mxPoint x="770" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="730" y="415" />
-              <mxPoint x="730" y="443" />
+              <mxPoint x="730" y="436" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -175,8 +172,8 @@
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-110" value="" style="endArrow=open;html=1;rounded=0;dashed=1;entryX=1.03;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;exitX=-0.141;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="688.64" y="429.99800000000005" as="sourcePoint" />
-            <mxPoint x="525.35" y="430.88" as="targetPoint" />
+            <mxPoint x="688.64" y="442.99800000000005" as="sourcePoint" />
+            <mxPoint x="525.35" y="443.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-111" value="회원 정보 결과" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -187,8 +184,8 @@
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-116" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;exitX=-0.141;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.086;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="513.29" y="444.99799999999993" as="sourcePoint" />
-            <mxPoint x="5.8599999999999" y="446.60000000000014" as="targetPoint" />
+            <mxPoint x="513.29" y="450.99799999999993" as="sourcePoint" />
+            <mxPoint x="5.8599999999999" y="452.60000000000014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8XIUrFHfBqZS6FGPilP-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.177;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.022;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -196,6 +193,9 @@
             <mxPoint x="525.2199999999998" y="404.999" as="sourcePoint" />
             <mxPoint x="690" y="405.245" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r8XIUrFHfBqZS6FGPilP-115" value="회원 정보" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="453" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
